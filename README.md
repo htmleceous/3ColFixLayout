@@ -6,7 +6,7 @@ The padding is placed only on the top and bottom of the block elements. Avoiding
 
 If you want the navigation on the right side of the page, just float the following to the right and browser will render them in reverse order:
 
-.sidebar1 {
+       .sidebar1 {
             float: right;
             width: 200px;
             background-color: #5f450c;
